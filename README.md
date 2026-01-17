@@ -11,3 +11,5 @@ Os dados utilizados estão na aba Bases e incluem informações de plano, tipo d
 O dashboard foi construído utilizando tabelas e gráficos dinâmicos, com segmentação de dados para filtragem interativa. Também foram incluídas imagens ilustrativas para melhorar a apresentação visual e todas as abas auxiliares foram ocultadas, mantendo visível apenas a aba do dashboard.
 
 O resultado permite uma visualização clara do desempenho de vendas, análise de receita por plano e avaliação do impacto da renovação automática, apoiando a tomada de decisões baseada em dados.
+
+No README .txt, consta todas as informações detalhadas.
